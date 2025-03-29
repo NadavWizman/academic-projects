@@ -19,32 +19,3 @@ Unlike the standard version, this constraint introduces a more complex recursive
 ```bash
 gcc tower_of_hanoi.c -o hanoi
 ./hanoi
-
-## Program Output Example
-Tower of Hanoi with 3 disks:
-Move disk 1 from column 1 to column 2
-Move disk 1 from column 2 to column 3
-Move disk 2 from column 1 to column 2
-Move disk 1 from column 3 to column 2
-Move disk 1 from column 2 to column 1
-Move disk 2 from column 2 to column 3
-Move disk 1 from column 1 to column 2
-Move disk 1 from column 2 to column 3
-Move disk 3 from column 1 to column 2
-Move disk 1 from column 3 to column 2
-Move disk 1 from column 2 to column 1
-Move disk 2 from column 3 to column 2
-Move disk 1 from column 1 to column 2
-Move disk 1 from column 2 to column 3
-Move disk 2 from column 2 to column 1
-Move disk 1 from column 3 to column 2
-Move disk 1 from column 2 to column 1
-Move disk 3 from column 2 to column 3
-Move disk 1 from column 1 to column 2
-Move disk 1 from column 2 to column 3
-Move disk 2 from column 1 to column 2
-Move disk 1 from column 3 to column 2
-Move disk 1 from column 2 to column 1
-Move disk 2 from column 2 to column 3
-Move disk 1 from column 1 to column 2
-Move disk 1 from column 2 to column 3
