@@ -17,17 +17,3 @@ This project implements a **generic stack class in Java** that supports any data
 ```bash
 javac Stack.java
 java Stack
-
-## Program Output Example
-Top element (intStack): 3
-Popped element (intStack): 3
-Top element after pop (intStack): 2
-Top element (intStack2): 2
-Popped element (intStack2): 2
-Top element after pop (intStack2): 1
-Top element (stringStack): world
-Popped element (stringStack): world
-Top element after pop (stringStack): hello
-Top element (stacks): 1
-Popped element (stacks): 1
-Top element after pop (stacks): 2
