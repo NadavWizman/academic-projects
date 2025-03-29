@@ -19,5 +19,5 @@ Each cell can be either **ALIVE (1)** or **DEAD (0)**, and transitions between s
 
 ## How to Compile and Run
 ```bash
-gcc game_of_life.c -o game_of_life
-./game_of_life
+gcc game_of_life.c -o life
+./life
